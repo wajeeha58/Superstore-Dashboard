@@ -1,5 +1,5 @@
-# Superstore-Dashboard
-![SuperStore Dashboard](https://github.com/wajeeha58/Superstore-Dashboard/assets/131583709/5385ab16-5383-4670-af2e-1b9472169f17)
+# Super Store-Dashboard
+![Super Store Dashboard](https://github.com/wajeeha58/Superstore-Dashboard/assets/131583709/5385ab16-5383-4670-af2e-1b9472169f17)
 
 ## Purpose
 The purpose of this dataset is to provide detailed information about sales transactions within a store. It includes data on orders, customers, products, and various aspects of the sales process. This dataset can be used for analyzing sales trends, customer behavior, and overall business performance.
